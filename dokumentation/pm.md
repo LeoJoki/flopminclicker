@@ -1,0 +1,3 @@
+Jag tycker att det gick hyfsat bra. Jag tror att jag var lite för ambitiös i planeringen men jag fick in grunderna av det jag ville ha ändå. I planeringen så hade jag tänkt att göra färgerna till färgerna av en gurka men det blev ganska fult så istället gjorde jag backgrunds färgen till råsa och jag tyckte det blev bättre även om många nog skulle tycka att jag har fel.
+Det som jag är stoltast för är typ då jag fick nummrena att konstant uppdatera istället för att uppdateras varje sekund.
+Jag hade hoppats på att jag skulle kunna ändra på layouten lite gran men jag han inte riktigt göra det.
