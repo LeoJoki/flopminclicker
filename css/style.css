@@ -2,9 +2,9 @@
 /* @link https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.333,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
 :root {
-    --color-lighter: hsl(80, 10%, 90%);
-    --color-light: hsl(80, 10%, 80%);
-    --color-dark: hsl(360, 10%, 10%);
+    --color-lighter: hsl(0, 0%, 100%);
+    --color-light: hsl(324, 27%, 65%);
+    --color-dark: hsl(0, 0%, 0%);
     --color-dark-transparent: hsla(360, 10%, 10%, 0.2);
 
     --step--1: clamp(0.94rem, calc(0.94rem + 0vw), 0.94rem);
@@ -145,7 +145,7 @@ audio {
     background-size: cover;
     background-position: center;
     border: 2px solid transparent;
-    color: var(--color-light);
+    color: var(--color-lighter);
     text-transform: uppercase;
     font-weight: 700;
     cursor: pointer;
